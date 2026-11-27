@@ -1,0 +1,8 @@
+{
+  "name": "pier-sample-bun",
+  "private": true,
+  "module": "index.ts",
+  "type": "module",
+  "scripts": { "start": "bun run index.ts" },
+  "dependencies": { "hono": "^4.6.0" }
+}
